@@ -75,4 +75,4 @@ AllNum.forEach(function(v3,index3){
     }
 })
 
-console.log(Ans);
+console.log(formula+"="+Ans);
