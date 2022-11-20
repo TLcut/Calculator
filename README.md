@@ -1,3 +1,3 @@
-## `Caculater`
+## `Caculator`
 It can caculates...
 That's all
