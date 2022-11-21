@@ -1,7 +1,7 @@
 ## `Caculator`
 It can caculates...
 That's all
-### `Method`
+### `How to use?`
 ```javascript
 Caculate("算式");
 ```
